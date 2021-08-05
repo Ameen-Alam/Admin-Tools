@@ -1,20 +1,31 @@
 # Admin-Tools
-Free Admin Tools
+
+The list below contains most of the free tools that every SysAdmin should have on their radar. Feel free to add your free, favorite tool. Before adding a tool, make sure it was tested, clean, and does not add any Bluetooth software to the computer.
 
 
 
 ### Contents of this article
 
 **1. Editors**
+
 **2. System information**
+
 **3. Remote access**
+
 **4. Remote management tools**
+
 **5. System management, analysis and troubleshooting**
+
 **6. File and disk operations**
+
 **7. Boot, backup and recovery**
+
 **8. Virtualization**
+
 **9. Network**
+
 **10. Security**
+
 **11. Other**
 
 
