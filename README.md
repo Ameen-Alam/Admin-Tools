@@ -18,7 +18,9 @@ Free Admin Tools
 1. Other
 
 
-#### Editors
+--------
+
+1. #### Editors
 
 **Notepad++** - Powerful text editor with a ton of code/text editing plugins.
 
