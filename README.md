@@ -5,17 +5,17 @@ Free Admin Tools
 
 ### Contents of this article
 
-1. Editors
-1. System information
-1. Remote access
-1. Remote management tools
-1. System management, analysis and troubleshooting
-1. File and disk operations
-1. Boot, backup and recovery
-1. Virtualization
-1. Network
-1. Security
-1. Other
+**1. Editors**
+**2. System information**
+**3. Remote access**
+**4. Remote management tools**
+**5. System management, analysis and troubleshooting**
+**6. File and disk operations**
+**7. Boot, backup and recovery**
+**8. Virtualization**
+**9. Network**
+**10. Security**
+**11. Other**
 
 
 --------
