@@ -20,7 +20,7 @@ Free Admin Tools
 
 --------
 
-1. #### Editors
+### 1. Editors
 
 **Notepad++** - Powerful text editor with a ton of code/text editing plugins.
 
@@ -33,7 +33,7 @@ Free Admin Tools
 
 -----
 
-#### System information
+### 2. System information
 
 **Spotlight** - A nice System Information Viewer.
 
@@ -53,7 +53,7 @@ Free Admin Tools
 
 --------
 
-#### Remote access
+### 3. Remote access
 
 **mRemoteNG** – mRemoteNG is a fork of mRemote: an open source, tabbed, multi-protocol, remote connections manager. mRemoteNG adds bug fixes and new features to mRemote.
 
@@ -71,7 +71,7 @@ Free Admin Tools
 
 ----
 
-#### Remote management tools
+### 4. Remote management tools
 
 **RSAT** (Remote Server Administration Tools for Windows 10) – Native Windows tools to manage Windows system features.
 
@@ -81,7 +81,7 @@ Free Admin Tools
 
 ----
 
-#### System management, analysis and troubleshooting
+### 5. System management, analysis and troubleshooting
 
 **SysInternals tools** – Set of advanced tools to troubleshoot Windows systems, created by Mark Russinovich. A must have tool for any Windows administrator.
 
@@ -117,7 +117,7 @@ Free Admin Tools
 
 ----
 
-#### File and disk operations
+### 6. File and disk operations
 
 **Filezilla** – Free software, cross-platform FTP application, consisting of FileZilla Client and FileZilla Server.
 
@@ -145,7 +145,7 @@ Free Admin Tools
 
 ----
 
-####  Boot, backup and recovery
+### 7. Boot, backup and recovery
 
 **Rufus** - Small portable tool to create bootable USB Flash drives, includes an option to download the Windows.
 
@@ -171,7 +171,7 @@ Free Admin Tools
 
 ----
 
-#### Virtualization
+### 8. Virtualization
 
 **RVTools** - Windows application which uses the VI SDK to display information about your virtual environments. Interacting with VMware vCenter Server.
 
@@ -181,7 +181,7 @@ Free Admin Tools
 
 ----
 
-#### Network
+### 9. Network
 
 **Angry IP Scanner** – IP scanning tool.
 
@@ -193,7 +193,7 @@ Free Admin Tools
 
 ----
 
-#### Security
+### 10. Security
 
 **KeePass Password Safe** – KeePass is a free open source password manager. Passwords can be stored in an encrypted database, which can be unlocked with one master key. With dozen of plugins available, KeePass is one of the best password manager tools.
 
@@ -203,7 +203,7 @@ Free Admin Tools
 
 ---
 
-#### Other
+### 11. Other
 
 **Greenshot** – Really nice, feature rich, easy and free print screen tool.
 
